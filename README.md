@@ -1,7 +1,5 @@
 # RetailEcommerce-ChurnPrediction
 
-![Project Logo](your_project_logo.png)
-
 Predict and prevent customer churn in the retail e-commerce industry using data science and machine learning.
 
 ## Table of Contents
